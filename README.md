@@ -1,3 +1,7 @@
+<p align="center">
+<img src="img/banner.jpg" alt="decorative banner" width="1200"/>
+</p>
+
 # LAB300 - Hands-on with GitHub Copilot in Visual Studio 2022
 
 This lab will guide you through using GitHub Copilot's various features in Visual Studio 2022. You'll start with a partially completed TinyShop application and use GitHub Copilot to complete missing features and enhance the application.
@@ -30,3 +34,10 @@ You'll use GitHub Copilot's various features to enhance and complete this applic
 9. [Commit Summary Descriptions](lab/part8-commit-summary-descriptions.md)
 
 **Key Takeaway**: These tools can significantly boost your productivity as a developer by automating repetitive tasks, generating boilerplate code, and helping you implement complex features more quickly.
+
+## Session Resources 
+
+| Resources          | Links                             | Description        |
+|:-------------------|:----------------------------------|:-------------------|
+| Build session page | https://build.microsoft.com/sessions/LAB300 | Event session page with downloadable recording, slides, resources, and speaker bio |
+|Microsoft Learn|https://aka.ms/AAI_DevAppGitHubCop_Plan|Official Collection or Plan with skilling resources to learn at your own pace|
