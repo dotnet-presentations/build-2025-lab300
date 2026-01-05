@@ -2,14 +2,14 @@
 <img src="img/banner.jpg" alt="decorative banner" width="1200"/>
 </p>
 
-# LAB300 - Hands-on with GitHub Copilot in Visual Studio 2022
+# LAB300 - Hands-on with GitHub Copilot in Visual Studio 2026
 
-This lab will guide you through using GitHub Copilot's various features in Visual Studio 2022. You'll start with a partially completed TinyShop application and use GitHub Copilot to complete missing features and enhance the application.
+This lab will guide you through using GitHub Copilot's various features in Visual Studio 2026. You'll start with a partially completed TinyShop application and use GitHub Copilot to complete missing features and enhance the application.
 
 ## Prerequisites
 
-- Visual Studio 2022 with GitHub Copilot extension installed
-- .NET 9 SDK
+- Visual Studio 2026 with GitHub Copilot extension installed
+- .NET 10 SDK
 - GitHub account with Copilot subscription (including Free)
 
 ## Lab Overview
