@@ -17,7 +17,7 @@ To complete this workshop you will need to clone a repository with a copy of the
 1. [] Enter +++@lab.CloudPortalCredential(User1).Username+++ on the Email, phone, or Skype input box and click on **Next**
 1. [] Enter +++@lab.CloudPortalCredential(User1).Password+++ on the password field and click on **Sign in**
 1. [] Click on **Yes** when prompted to **Stay signed in**, you will be redirect to the main organization page, you can close the tab.
-1. [] Open Visual Studio 2022
+1. [] Open Visual Studio 2026
 1. [] Select **Continue without code**, if prompted to sign-in, you can click Close.
 1. [] Click on Copilot icon on top bar (left side next to the search input box)
     ![Copilot icon](./images/0-copilot-icon.png)
