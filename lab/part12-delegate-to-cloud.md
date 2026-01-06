@@ -107,3 +107,7 @@ Once the cloud agent completes the task:
 1. [] Switch back to light theme and verify it works both ways.
 
 **Key Takeaway**: Delegating to the Cloud lets you offload complex tasks to GitHub Copilot while you focus on other work. This is especially valuable for time-consuming implementations or when you want to explore ideas without blocking your immediate workflow.
+
+---
+
+[Back: Part 11 - Reusable Prompt Files](./part11-reusable-prompts.md) ? | [Next: Setup](./setup.md) ?

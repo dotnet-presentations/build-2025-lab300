@@ -14,3 +14,7 @@ In this section, you'll use Copilot Vision. You can share screenshots of errors 
 > Note: continue to iterate with Copilot Agent if it isn't to your liking.
 
 **Key Takeaway**: Copilot Vision can understand UI designs from images and help you implement them in your application.
+
+---
+
+[Back: Part 05 - Implementing Features with Copilot Agent](./part05-implementing-features.md) ? | [Next: Part 07 - Debugging with Copilot](./part07-debugging-with-copilot.md) ?

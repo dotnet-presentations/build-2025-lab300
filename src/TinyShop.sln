@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34004.107
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11312.210 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataEntities", "DataEntities\DataEntities.csproj", "{E42C986A-98CA-4FBC-9F9F-88F8C7CB1603}"
 EndProject
@@ -26,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\lab\part11-reusable-prompts.md = ..\lab\part11-reusable-prompts.md
 		..\lab\part12-delegate-to-cloud.md = ..\lab\part12-delegate-to-cloud.md
 		..\README.md = ..\README.md
+		..\lab\setup.md = ..\lab\setup.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyShop.AppHost", "TinyShop.AppHost\TinyShop.AppHost.csproj", "{FF27FDEA-661D-4B0A-81D5-044749BF5BE4}"

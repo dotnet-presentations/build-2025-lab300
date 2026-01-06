@@ -87,3 +87,7 @@ GitHub Copilot will propose the following changes to the application including u
 1. [] Stop debugging and close the application
 
 **Key Takeaway**: Copilot Agent can generate complete feature implementations based on your natural language descriptions, saving significant development time.
+
+---
+
+[Back: Part 04 - Using Custom Instructions](./part04-custom-instructions.md) ? | [Next: Part 06 - Using Copilot Vision](./part06-copilot-vision.md) ?

@@ -176,4 +176,6 @@ In this section, you'll use GitHub Copilot's code completion to implement API en
 
 1. [] Stop debugging and close the application
 
-**Key Takeaway**: GitHub Copilot can generate complete API implementations based on your comments or partial code, significantly speeding up development.
+---
+
+[Back: Part 00 - Exploring the Codebase with GitHub Copilot Chat](./part00-exploring-codebase.md) ? | [Next: Part 02 - Enhancing UI with Inline Chat](./part02-enhancing-ui.md) ?

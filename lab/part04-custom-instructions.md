@@ -48,3 +48,7 @@ Here are some guidelines to consider when creating a Copilot instructions file:
 1. [] Notice how the responses now incorporate your custom instructions.
 
 **Key Takeaway**: Custom instructions make Copilot's suggestions more aligned with your project standards and architecture preferences.
+
+---
+
+[Back: Part 03 - Referencing Code Files in Chat](./part03-referencing-files.md) ? | [Next: Part 05 - Implementing Features with Copilot Agent](./part05-implementing-features.md) ?

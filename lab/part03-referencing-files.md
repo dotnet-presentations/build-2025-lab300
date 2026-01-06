@@ -21,3 +21,7 @@ In this section, you'll learn how to reference existing code files in your chat 
 1. [] Notice how Copilot can reference existing code to provide contextual suggestions.
 
 **Key Takeaway**: Referencing files in your chat provides Copilot with the context it needs to give more accurate, project-specific suggestions.
+
+---
+
+[Back: Part 02 - Enhancing UI with Inline Chat](./part02-enhancing-ui.md) ? | [Next: Part 04 - Using Custom Instructions](./part04-custom-instructions.md) ?

@@ -139,3 +139,7 @@ public void ImageUrl_SetValue_ReturnsExpectedValue(string imageUrl)
 1. [] Verify that all tests pass.
 
 **Key Takeaway**: Reusable prompt files help standardize how your team uses GitHub Copilot. By creating prompts for common tasks like unit testing, you ensure consistency and encode best practices that everyone on the team can benefit from.
+
+---
+
+[Back: Part 10 - Planning Mode in Agent](./part10-planning-mode.md) ? | [Next: Part 12 - Delegate to the Cloud](./part12-delegate-to-cloud.md) ?

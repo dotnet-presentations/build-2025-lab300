@@ -44,3 +44,7 @@ The GitHub MCP server allows Copilot to interact with your GitHub repository. Le
 1. [] Navigate to your GitHub repository to verify that the issues have been created.
 
 **Key Takeaway**: MCP servers extend GitHub Copilot's capabilities by connecting it to external services and documentation. This allows Copilot to provide more accurate, up-to-date information and perform actions like creating GitHub issues directly from the chat interface.
+
+---
+
+[Back: Part 08 - Commit Summary Descriptions](./part08-commit-summary-descriptions.md) ? | [Next: Part 10 - Planning Mode in Agent](./part10-planning-mode.md) ?

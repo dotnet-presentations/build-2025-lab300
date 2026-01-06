@@ -73,3 +73,7 @@ Also ensure the product detail page handles cases where the product ID doesn't e
 1. [] Click the "Back to Products" button to return to the listing.
 
 **Key Takeaway**: Planning Mode helps you think through complex features before implementation. By creating a structured plan, you can ensure all necessary changes are considered and review the approach before any code is generated. This leads to better-organized code and fewer iterations.
+
+---
+
+[Back: Part 09 - MCP Servers](./part09-mcp.md) ? | [Next: Part 11 - Reusable Prompt Files](./part11-reusable-prompts.md) ?

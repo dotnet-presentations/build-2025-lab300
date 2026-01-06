@@ -25,3 +25,7 @@ Now, you'll improve the loading experience using Copilot's inline chat.
 1. [] Stop debugging and close the application
 
 **Key Takeaway**: Inline chat allows you to make targeted improvements to your code without leaving your editor context.
+
+---
+
+[Back: Part 01 - Code Completion with Ghost Text](./part01-code-completion.md) ? | [Next: Part 03 - Referencing Code Files in Chat](./part03-referencing-files.md) ?

@@ -11,3 +11,7 @@ GitHub Copilot Chat allows you to ask questions about your code and get intellig
 1. [] Notice how Copilot analyzes your codebase to provide contextual answers.
 
 **Key Takeaway**: GitHub Copilot Chat helps you understand unfamiliar codebases by answering questions about the project structure, architecture, and implementation details.
+
+---
+
+[Next: Part 01 - Code Completion with Ghost Text](./part01-code-completion.md) ?
