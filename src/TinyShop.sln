@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\lab\part6-copilot-vision.md = ..\lab\part6-copilot-vision.md
 		..\lab\part7-debugging-with-copilot.md = ..\lab\part7-debugging-with-copilot.md
 		..\lab\part8-commit-summary-descriptions.md = ..\lab\part8-commit-summary-descriptions.md
+		..\lab\part9-mcp.md = ..\lab\part9-mcp.md
+		..\lab\part10-planning-mode.md = ..\lab\part10-planning-mode.md
+		..\lab\part11-reusable-prompts.md = ..\lab\part11-reusable-prompts.md
+		..\lab\part12-delegate-to-cloud.md = ..\lab\part12-delegate-to-cloud.md
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject

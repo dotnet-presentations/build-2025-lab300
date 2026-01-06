@@ -32,6 +32,10 @@ You'll use GitHub Copilot's various features to enhance and complete this applic
 7. [Using Copilot Vision](lab/part6-copilot-vision.md)
 8. [Debugging with Copilot](lab/part7-debugging-with-copilot.md)
 9. [Commit Summary Descriptions](lab/part8-commit-summary-descriptions.md)
+10. [MCP Servers](lab/part9-mcp.md)
+11. [Planning Mode in Agent](lab/part10-planning-mode.md)
+12. [Reusable Prompt Files](lab/part11-reusable-prompts.md)
+13. [Delegate to the Cloud](lab/part12-delegate-to-cloud.md)
 
 **Key Takeaway**: These tools can significantly boost your productivity as a developer by automating repetitive tasks, generating boilerplate code, and helping you implement complex features more quickly.
 

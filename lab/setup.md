@@ -5,6 +5,19 @@ To complete this workshop you will need to clone a repository with a copy of the
 > [!Hint]
 > Under regular conditions you would need to ensure all prequirements, but don't worry. We have ensured this environment as all you need.
 
+## Install GitHub Node Extension
+
+Before we begin, let's install the GitHub Node extension for Visual Studio. This extension provides access to GitHub MCP servers which we will use later in the lab.
+
+1. [] Open Visual Studio 2026
+1. [] Go to **Extensions -> Manage Extensions**
+1. [] Search for **GitHub Node** in the search box
+1. [] Click **Install** on the **GitHub Node** extension by Mads Kristensen
+1. [] Restart Visual Studio if prompted
+
+> [!TIP]
+> You can also install this extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.GitHubNode). The GitHub Node extension is important because it provides the Node.js runtime required by some MCP servers, which you'll use in Part 9 of this lab.
+
 ## Configure GitHub Copilot
 
 > [!IMPORTANT]
