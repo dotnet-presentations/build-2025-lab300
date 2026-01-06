@@ -1,4 +1,4 @@
-# Part 7: Debugging with Copilot
+# Part 07: Debugging with Copilot
 
 In this section, you'll learn how to use Copilot to debug an exception in your application.
 

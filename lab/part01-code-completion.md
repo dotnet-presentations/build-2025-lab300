@@ -1,4 +1,4 @@
-# Part 1: Code Completion with Ghost Text
+# Part 01: Code Completion with Ghost Text
 
 In this section, you'll use GitHub Copilot's code completion to implement API endpoints.
 

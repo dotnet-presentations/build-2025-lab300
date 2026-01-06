@@ -1,4 +1,4 @@
-# Part 3: Referencing Code Files in Chat
+# Part 03: Referencing Code Files in Chat
 
 In this section, you'll learn how to reference existing code files in your chat conversations.
 

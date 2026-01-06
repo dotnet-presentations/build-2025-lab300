@@ -1,4 +1,4 @@
-# Part 2: Enhancing UI with Inline Chat
+# Part 02: Enhancing UI with Inline Chat
 
 Now, you'll improve the loading experience using Copilot's inline chat.
 

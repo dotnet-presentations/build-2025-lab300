@@ -1,4 +1,4 @@
-# Part 8: Commit Summary Descriptions
+# Part 08: Commit Summary Descriptions
 
 In this section, you'll learn how to use GitHub Copilot to generate commit messages and customize them.
 

@@ -1,4 +1,4 @@
-# Part 6: Using Copilot Vision
+# Part 06: Using Copilot Vision
 
 In this section, you'll use Copilot Vision. You can share screenshots of errors and Copilot will interpret the image and resolve the issue. Or share mockups of new designs, and Vision will help you bring them to life. Let's update our design based on a photo our design gave us.
 

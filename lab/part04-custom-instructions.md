@@ -1,4 +1,4 @@
-# Part 4: Using Custom Instructions
+# Part 04: Using Custom Instructions
 
 There are always key pieces of information anyone generating code for your codebase needs to know - the technologies in use, coding standards to follow, project structure, etc. Since context is so important, as we've discussed, we likely want to ensure Copilot always has this information as well. Fortunately, we can provide this overview through the use of Copilot instructions.
 
@@ -42,7 +42,7 @@ Here are some guidelines to consider when creating a Copilot instructions file:
 
    ![New chat](./images/5-new-edits.png)
 
-1. [] Go back to Copilot Chat and re-run the prompt from Part 3, you can do this by pressing the up key. or
+1. [] Go back to Copilot Chat and re-run the prompt from Part 03, you can do this by pressing the up key. or
 1. [] Ask: `How would I implement getting and visualizing the products in a table using the code in #ProductService and the css required.`
 1. [] Review the code suggestion but don't implement it yet.
 1. [] Notice how the responses now incorporate your custom instructions.

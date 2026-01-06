@@ -1,4 +1,4 @@
-# Part 0: Exploring the Codebase with GitHub Copilot Chat
+# Part 00: Exploring the Codebase with GitHub Copilot Chat
 
 GitHub Copilot Chat allows you to ask questions about your code and get intelligent responses.
 
