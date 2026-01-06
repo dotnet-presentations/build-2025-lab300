@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34004.107
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11312.210
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataEntities", "DataEntities\DataEntities.csproj", "{E42C986A-98CA-4FBC-9F9F-88F8C7CB1603}"
 EndProject
@@ -11,22 +11,30 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE25919E-C9FD-449C-B1FA-3E28784535A4}"
 	ProjectSection(SolutionItems) = preProject
+		.mcp.json = .mcp.json
 		..\.github\copilot-instructions.md = ..\.github\copilot-instructions.md
-		..\lab\part0-exploring-codebase.md = ..\lab\part0-exploring-codebase.md
-		..\lab\part1-code-completion.md = ..\lab\part1-code-completion.md
-		..\lab\part2-enhancing-ui.md = ..\lab\part2-enhancing-ui.md
-		..\lab\part3-referencing-files.md = ..\lab\part3-referencing-files.md
-		..\lab\part4-custom-instructions.md = ..\lab\part4-custom-instructions.md
-		..\lab\part5-implementing-features.md = ..\lab\part5-implementing-features.md
-		..\lab\part6-copilot-vision.md = ..\lab\part6-copilot-vision.md
-		..\lab\part7-debugging-with-copilot.md = ..\lab\part7-debugging-with-copilot.md
-		..\lab\part8-commit-summary-descriptions.md = ..\lab\part8-commit-summary-descriptions.md
+		..\lab\part00-exploring-codebase.md = ..\lab\part00-exploring-codebase.md
+		..\lab\part01-code-completion.md = ..\lab\part01-code-completion.md
+		..\lab\part02-enhancing-ui.md = ..\lab\part02-enhancing-ui.md
+		..\lab\part03-referencing-files.md = ..\lab\part03-referencing-files.md
+		..\lab\part04-custom-instructions.md = ..\lab\part04-custom-instructions.md
+		..\lab\part05-implementing-features.md = ..\lab\part05-implementing-features.md
+		..\lab\part06-copilot-vision.md = ..\lab\part06-copilot-vision.md
+		..\lab\part07-debugging-with-copilot.md = ..\lab\part07-debugging-with-copilot.md
+		..\lab\part08-commit-summary-descriptions.md = ..\lab\part08-commit-summary-descriptions.md
+		..\lab\part09-mcp.md = ..\lab\part09-mcp.md
+		..\lab\part10-planning-mode.md = ..\lab\part10-planning-mode.md
+		..\lab\part11-reusable-prompts.md = ..\lab\part11-reusable-prompts.md
+		..\lab\part12-delegate-to-cloud.md = ..\lab\part12-delegate-to-cloud.md
 		..\README.md = ..\README.md
+		..\lab\setup.md = ..\lab\setup.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyShop.AppHost", "TinyShop.AppHost\TinyShop.AppHost.csproj", "{FF27FDEA-661D-4B0A-81D5-044749BF5BE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyShop.ServiceDefaults", "TinyShop.ServiceDefaults\TinyShop.ServiceDefaults.csproj", "{3F03DD6D-9282-4E09-BF05-DFCB0D7F1375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinyShop.Tests", "TinyShop.Tests\TinyShop.Tests.csproj", "{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -54,6 +62,10 @@ Global
 		{3F03DD6D-9282-4E09-BF05-DFCB0D7F1375}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F03DD6D-9282-4E09-BF05-DFCB0D7F1375}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F03DD6D-9282-4E09-BF05-DFCB0D7F1375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

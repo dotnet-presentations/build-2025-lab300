@@ -1,10 +1,11 @@
-# Part 1: Code Completion with Ghost Text
+# Part 01: Code Completion with Ghost Text
 
 In this section, you'll use GitHub Copilot's code completion to implement API endpoints.
 
 > IMPORTANT: For this exercise, **DO NOT** copy and paste the code snippet provided, but rather type it manually. This will allow you to experience code completion as you would if you were coding back at your desk. You'll likely see you only have to type a few characters before GitHub Copilot begins suggesting the rest.
 
 1. [] Stop debugging the appliaction if it is currently running.
+
 
 1. [] In the Solution Explorer, in the **Products** project, open **Endpoints/ProductEndpoints.cs** - it will have a single endpoint implemented.
 
@@ -161,12 +162,14 @@ In this section, you'll use GitHub Copilot's code completion to implement API en
 
    > NOTE: Because LLMs are probabilistic, not deterministic, the exact code generated can vary. The above is a representative example. If your code is different, that's just fine as long as it works!
 
+1. Click on **Keep** after reviewing changes in the GitHub Copilot Chat window.
+
 1. [] Go back to **ProductEndpoints.cs**, and try changing the variable name of **id** to `productId` in the new **MapGet** method and see Next Edit Suggestions help out.
 
    ![NES suggestions more](./images/1-nes-2.png)
 
 1. [] Try using documentation generation:
-   - Type `///` above a method to generate XML documentation on the **MapProductEndpoints** this can also be brought up with `Alt+/` for inline and then entering **/** which will bring up a list of commands.
+   - Type `///` above a method to generate XML documentation on the **MapProductEndpoints** this can also be brought up with `Alt+/` for inline and then entering **/** which will bring up a list of commands. The documentation generation will appear as ghost text and can be accepted with `Tab`.
 
    ![documentation generation by Copilot](./images/1-docs.png)
 
@@ -176,4 +179,6 @@ In this section, you'll use GitHub Copilot's code completion to implement API en
 
 1. [] Stop debugging and close the application
 
-**Key Takeaway**: GitHub Copilot can generate complete API implementations based on your comments or partial code, significantly speeding up development.
+---
+
+[Back: Part 00 - Exploring the Codebase with GitHub Copilot Chat](./part00-exploring-codebase.md) | [Next: Part 02 - Enhancing UI with Inline Chat](./part02-enhancing-ui.md)

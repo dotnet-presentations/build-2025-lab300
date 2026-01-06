@@ -1,4 +1,4 @@
-# Part 2: Enhancing UI with Inline Chat
+# Part 02: Enhancing UI with Inline Chat
 
 Now, you'll improve the loading experience using Copilot's inline chat.
 
@@ -8,7 +8,7 @@ Now, you'll improve the loading experience using Copilot's inline chat.
 1. [] Find the "Loading..." text in the code.
 1. [] Select this text and right-click.
 1. [] Choose "Ask Copilot" or press `Alt+/`.
-1. [] In the inline chat, type: `Update this to have a loading progress spinner`
+1. [] In the inline chat, type: `Update this razor to have a simple spinner style, using built in bootstrap styles.`
 
     ![Screenshot of VS with inline chat](./images/2-inline-code.png)
 
@@ -25,3 +25,7 @@ Now, you'll improve the loading experience using Copilot's inline chat.
 1. [] Stop debugging and close the application
 
 **Key Takeaway**: Inline chat allows you to make targeted improvements to your code without leaving your editor context.
+
+---
+
+[Back: Part 01 - Code Completion with Ghost Text](./part01-code-completion.md) | [Next: Part 03 - Referencing Code Files in Chat](./part03-referencing-files.md)

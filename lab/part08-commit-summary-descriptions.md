@@ -1,4 +1,4 @@
-# Part 8: Commit Summary Descriptions
+# Part 08: Commit Summary Descriptions
 
 In this section, you'll learn how to use GitHub Copilot to generate commit messages and customize them.
 
@@ -23,3 +23,7 @@ In this section, you'll learn how to use GitHub Copilot to generate commit messa
 1. [] Review the suggestions provided by Copilot and apply any necessary changes if there are any.
 
 **Key Takeaway**: Copilot's Code Review feature can help you identify potential issues and improve code quality before submission.
+
+---
+
+[Back: Part 07 - Debugging with Copilot](./part07-debugging-with-copilot.md) | [Next: Part 09 - MCP Servers](./part09-mcp.md)

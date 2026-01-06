@@ -1,4 +1,4 @@
-# Part 7: Debugging with Copilot
+# Part 07: Debugging with Copilot
 
 In this section, you'll learn how to use Copilot to debug an exception in your application.
 
@@ -42,3 +42,7 @@ In this subsection, you'll learn how to use Copilot to analyze variables using w
 1. [] Click **Continue in Chat** to have Copilot provide the equivalent LINQ query for the same filter criteria.
 
 **Key Takeaway**: Copilot can enhance debugging by providing detailed insights into variables through watch windows and visualizers. Copilot can simplify complex debugging tasks by generating expressions and LINQ queries based on natural language input.
+
+---
+
+[Back: Part 06 - Using Copilot Vision](./part06-copilot-vision.md) | [Next: Part 08 - Commit Summary Descriptions](./part08-commit-summary-descriptions.md)

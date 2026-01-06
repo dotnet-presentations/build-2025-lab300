@@ -1,4 +1,4 @@
-# Part 5: Implementing Features with Copilot Agent
+# Part 05: Implementing Features with Copilot Agent
 
 Previously we utilized Copilot chat, which is great for working with an individual file or asking questions about our code. However, many updates necessitate changes to multiple files throughout a codebase. Even a seemingly basic change to a webpage likely requires updating HTML, CSS, Razor, and C# files. Copilot Agent allows you to modify multiple files at once across your project, self heals, and can run commands if granted permission like installing NuGet packages.
 
@@ -16,7 +16,7 @@ Let's add the ability to see a list of images into the app:
 
     ![New chat icon in VS copilot](./images/5-new-edits.png)
 
-1. [] At the bottom of the GitHub Copilot Chat pane, select the model (default is GPT-4o") from the dropdown list, and select **Claude 3.5 Sonnet** from the list of available models.
+1. [] At the bottom of the GitHub Copilot Chat pane, select the model (default is GPT-4o") from the dropdown list, and select **Claude 4.5 Sonnet** from the list of available models.
 
     ![Select Sonnet in Copilot](./images/5-select-sonnet.png)
 
@@ -24,7 +24,7 @@ Let's add the ability to see a list of images into the app:
 
     > NOTE: You should use your own phrasing when generating the prompt. As highlighted previously, part of the exercise is to become comfortable creating prompts for GitHub Copilot. One key tip is it's always good to provide more guidance to ensure you get the code you are looking for.
 
-    > NOTE: If you are asked to **Enable Claude 3.5 Sonnet for all clients** click on **Enable** button.
+    > NOTE: If you are asked to **Enable Claude 4.5 Sonnet for all clients** click on **Enable** button.
 
 Copilot agent mode begins implementing the code suggestions!
 
@@ -87,3 +87,7 @@ GitHub Copilot will propose the following changes to the application including u
 1. [] Stop debugging and close the application
 
 **Key Takeaway**: Copilot Agent can generate complete feature implementations based on your natural language descriptions, saving significant development time.
+
+---
+
+[Back: Part 04 - Using Custom Instructions](./part04-custom-instructions.md) | [Next: Part 06 - Using Copilot Vision](./part06-copilot-vision.md)
