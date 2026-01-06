@@ -1,4 +1,4 @@
-# Part 11: Reusable Prompt Files
+﻿# Part 11: Reusable Prompt Files
 
 Prompt files are a powerful way to create standardized, reusable prompts that can be shared across your team. They help ensure consistency in how you interact with GitHub Copilot and can encode best practices for common tasks like code generation, testing, and documentation.
 
@@ -24,10 +24,16 @@ The solution already includes a **TinyShop.Tests** project with MSTest configure
 
 Now let's create a prompt file that helps generate additional unit tests using MSTest.
 
-1. [] In **Solution Explorer**, right-click on the solution and select **Add -> New Folder** and name it `.github` if it doesn't already exist.
-1. [] Right-click on the `.github` folder and select **Add -> New Folder** and name it `prompts`.
-1. [] Right-click on the `prompts` folder and select **Add -> New Item**.
-1. [] Create a new file named `unit-test.prompt.md` with the following content:
+1. [] In **Solution Explorer** under the we will see the **GitHub Node** from teh extension to add it easily:
+   - Right-Click the **GitHub Node** icon/extension in Visual Studio.
+   - Choose **Add Copilot File...**.
+   - Select **Prompt file...** from the dialog.
+   - Change the file name to `unit-test.prompt.md` and click **OK**.
+   - The new file will open in the editor; paste the content shown below into the file and save it.
+
+1. [] If you can create the file manually in file explorer, add a new file named `unit-test.prompt.md` under `.github/prompts` and paste the content below.
+
+1. [] Update the prompt file with the following content:
 
    ```markdown
    ---
@@ -142,4 +148,4 @@ public void ImageUrl_SetValue_ReturnsExpectedValue(string imageUrl)
 
 ---
 
-[Back: Part 10 - Planning Mode in Agent](./part10-planning-mode.md) ? | [Next: Part 12 - Delegate to the Cloud](./part12-delegate-to-cloud.md) ?
+[Back: Part 10 - Planning Mode in Agent](./part10-planning-mode.md) ← | [Next: Part 12 - Delegate to the Cloud](./part12-delegate-to-cloud.md) →
