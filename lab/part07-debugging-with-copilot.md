@@ -45,4 +45,4 @@ In this subsection, you'll learn how to use Copilot to analyze variables using w
 
 ---
 
-[Back: Part 06 - Using Copilot Vision](./part06-copilot-vision.md) ? | [Next: Part 08 - Commit Summary Descriptions](./part08-commit-summary-descriptions.md) ?
+[Back: Part 06 - Using Copilot Vision](./part06-copilot-vision.md) | [Next: Part 08 - Commit Summary Descriptions](./part08-commit-summary-descriptions.md)

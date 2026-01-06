@@ -16,15 +16,16 @@ Planning Mode is a preview feature in Agent that helps you:
 Let's use Planning Mode to implement a feature that allows users to click on a product in the listing page and navigate to a dedicated product detail page.
 
 1. [] Open the Copilot Chat window if it's not already open.
+1. [] Create a new chat session.
 1. [] Switch to **Agent** mode.
-1. [] Click on the **Plan** button at the bottom of the chat input to enable Planning Mode.
+1. [] Ensure **Planning** is enabled in the tools.
 
-   ![Enable Planning Mode](./images/10-planning-mode.png)
+   ![Planning Mode enabled](./images/10-planning-mode.png)
 
 1. [] Enter the following prompt:
 
    ```
-   I want to add product navigation to the TinyShop application. When a user clicks on a product in the product listing page, they should be taken to a new product detail page that shows:
+   Create a plan for the following: I want to add product navigation to the TinyShop application. When a user clicks on a product in the product listing page, they should be taken to a new product detail page that shows:
    - The product image (larger size)
    - Product name as the page title
    - Full description
@@ -39,6 +40,9 @@ Let's use Planning Mode to implement a feature that allows users to click on a p
    - Updating routing configuration
    - Modifying the product listing to include navigation links
    - Adding any necessary CSS styling
+   - Etc.
+
+   ![Generated Plan](./images/10-generated-plan.png)
 
 1. [] If the plan looks good, click **Execute Plan** to begin implementation.
 1. [] If you want to modify the plan, you can add additional instructions or ask Copilot to revise specific steps.
@@ -54,12 +58,12 @@ Before executing, it's a good practice to review the plan carefully:
 For example, you might add:
 
 ```
-Also ensure the product detail page handles cases where the product ID doesn't exist by showing a "Product not found" message.
+Update the plan to also ensure the product detail page handles cases where the product ID doesn't exist by showing a "Product not found" message.
 ```
 
 ## Executing the Plan
 
-1. [] Once you're satisfied with the plan, click **Execute Plan**.
+1. [] Once you're satisfied with the plan, tell copilot to **Execute Plan**.
 1. [] Copilot will implement each step of the plan, creating and modifying files as needed.
 1. [] Review the changes in the editor as they're made.
 1. [] Run the application to test the new product navigation feature.
@@ -76,4 +80,4 @@ Also ensure the product detail page handles cases where the product ID doesn't e
 
 ---
 
-[Back: Part 09 - MCP Servers](./part09-mcp.md) ? | [Next: Part 11 - Reusable Prompt Files](./part11-reusable-prompts.md) ?
+[Back: Part 09 - MCP Servers](./part09-mcp.md) | [Next: Part 11 - Reusable Prompt Files](./part11-reusable-prompts.md)

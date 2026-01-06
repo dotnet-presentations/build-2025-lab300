@@ -26,4 +26,4 @@ In this section, you'll learn how to use GitHub Copilot to generate commit messa
 
 ---
 
-[Back: Part 07 - Debugging with Copilot](./part07-debugging-with-copilot.md) ? | [Next: Part 09 - MCP Servers](./part09-mcp.md) ?
+[Back: Part 07 - Debugging with Copilot](./part07-debugging-with-copilot.md) | [Next: Part 09 - MCP Servers](./part09-mcp.md)

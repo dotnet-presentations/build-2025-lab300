@@ -32,9 +32,7 @@ Before delegating to the cloud, it's important to write a clear, detailed prompt
 ## Delegating to the Cloud
 
 1. [] Open Copilot Chat and switch to **Agent** mode.
-1. [] Click on the **Delegate to Cloud** button (cloud icon) at the bottom of the chat window.
 
-   ![Delegate to Cloud button](./images/12-delegate-cloud.png)
 
 1. [] Enter a detailed prompt for the dark theme feature:
 
@@ -67,39 +65,32 @@ Before delegating to the cloud, it's important to write a clear, detailed prompt
    ```
 
 1. [] Review the prompt to ensure it includes all necessary details.
-1. [] Click **Submit** to delegate the task to the cloud.
+1. [] Click on the **Send to Copilot Coding Agent** button (cloud icon) at the bottom of the chat window.
+
+   ![Delegate to Cloud button](./images/12-delegate-cloud.png)
+1. The cloud agent will acknowledge the request and begin processing it.
+1. [] You will be prompted to confirm the delegation and create an issue. Click **Confirm** to proceed.
+1. [] After the issues has been created you will be able to view the pull request for the changes in in Visual Studio or on GitHub.
+  ![View Pull Request](./images/12-view-pull-request.png)
+
+1. When viewing on GitHub, you can see the proposed changes in the pull request, and view the session to see it in realtime.
+
 
 ## While the Task Runs
 
 After submitting, you'll see a confirmation that your task has been delegated. You can:
 
 1. [] Continue working on other tasks in Visual Studio.
-1. [] Check the status of your cloud task in the Copilot Chat window.
+1. [] Check the status of your cloud task in the pull request window.
 1. [] Receive a notification when the task is complete.
 
 > [!TIP]
-> Cloud Agent tasks typically take a few minutes to complete, depending on the complexity of the request. You'll receive a notification in Visual Studio when the work is ready for review.
+> Cloud Agent tasks typically takes several minutes to complete, depending on the complexity of the request. 
 
-## Reviewing Cloud Agent Results
-
-Once the cloud agent completes the task:
-
-1. [] Click on the notification to open the results.
-1. [] Review the proposed changes in the diff viewer.
-1. [] Check that the implementation matches your requirements:
-   - CSS custom properties are defined
-   - Theme toggle is in the navigation bar
-   - LocalStorage is used for persistence
-   - Theme transitions are smooth
-
-1. [] If the changes look good, click **Apply Changes** to merge them into your codebase.
-1. [] If you need modifications, you can:
-   - Request refinements in a follow-up prompt
-   - Make manual adjustments to the applied code
-   - Delegate again with updated requirements
 
 ## Testing the Dark Theme
 
+1. [] Once the cloud agent has completed the task, review the changes in the pull request and checkout the branch that the changes were made on.
 1. [] Run the application with F5 or Debug -> Start Debugging.
 1. [] Click the theme toggle button in the navigation bar.
 1. [] Verify that the dark theme is applied correctly.
@@ -110,4 +101,4 @@ Once the cloud agent completes the task:
 
 ---
 
-[Back: Part 11 - Reusable Prompt Files](./part11-reusable-prompts.md) ? | [Next: Setup](./setup.md) ?
+[Back: Part 11 - Reusable Prompt Files](./part11-reusable-prompts.md) | [Next: Setup](./setup.md)

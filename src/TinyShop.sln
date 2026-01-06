@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.3.11312.210 d18.3
+VisualStudioVersion = 18.3.11312.210
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataEntities", "DataEntities\DataEntities.csproj", "{E42C986A-98CA-4FBC-9F9F-88F8C7CB1603}"
 EndProject
@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Store", "Store\Store.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BE25919E-C9FD-449C-B1FA-3E28784535A4}"
 	ProjectSection(SolutionItems) = preProject
+		.mcp.json = .mcp.json
 		..\.github\copilot-instructions.md = ..\.github\copilot-instructions.md
 		..\lab\part00-exploring-codebase.md = ..\lab\part00-exploring-codebase.md
 		..\lab\part01-code-completion.md = ..\lab\part01-code-completion.md

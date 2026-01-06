@@ -21,7 +21,7 @@ Here are some guidelines to consider when creating a Copilot instructions file:
 
 ## Create a Copilot instructions file
 
-1. [] In the **Solution Explorer**, expand the **Solution Items** and open **copilot-instructions.md**
+1. [] In the **Solution Explorer**, expand the **GitHub Node** and open **copilot-instructions.md**
 
 1. [] Add project-specific information about your application:
 
@@ -51,4 +51,4 @@ Here are some guidelines to consider when creating a Copilot instructions file:
 
 ---
 
-[Back: Part 03 - Referencing Code Files in Chat](./part03-referencing-files.md) ? | [Next: Part 05 - Implementing Features with Copilot Agent](./part05-implementing-features.md) ?
+[Back: Part 03 - Referencing Code Files in Chat](./part03-referencing-files.md) | [Next: Part 05 - Implementing Features with Copilot Agent](./part05-implementing-features.md)

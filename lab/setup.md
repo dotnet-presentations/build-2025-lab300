@@ -58,6 +58,22 @@ If you prefer to use your personal GitHub account instead of the Skillable lab a
 
     Note: Using your personal account is recommended if you want Copilot to access your own repositories, settings, and MCP authorizations. For the hands-on lab exercises that create or modify repository data via cloud agents, forking the lab repo into your own account gives the agents permission to operate on your fork.
 
+
+## Turn on Copilot Settings
+
+1.[] Ensure Code Completions and Next Edit Suggestions are enabled:
+   - Go to the GitHub Copilot settings in Visual Studio by clicking on the GitHub Copilot icon in the top-right corner and selecting **Settings**.
+   - Ensure **Enable copilot completions** is checked.
+   - Ensure **Enable next edit suggestions** is checked.
+
+   ![](./images/0-enable-nes.png)
+
+1. Head to **Tools -> Options -> GitHub -> Copilot -> Copilot Chat** and ensure the following settings are enabled:
+   - **Enable Planning**
+   - **Enable View Plan Execution**
+   - **Enable Copilot Coding agent (Preview)**
+
+
 ## Clone lab repository
 
 For the full experience — especially if you plan to delegate tasks to cloud agents or allow Copilot to create issues and push changes — fork the repository to your own GitHub account and clone your fork. This gives the cloud agent permissions to operate on your copy of the repo.
